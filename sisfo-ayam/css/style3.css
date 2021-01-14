@@ -1,0 +1,42 @@
+html {
+    position: relative;
+}
+.jumbotron {
+    margin-top:60px ;
+    background-image: url(../img/street.svg);
+    background-attachment: fixed;
+}
+hr {
+    width: 300px;
+    border-top: 3px solid rgb(108, 8, 190);
+}
+
+.contact {
+    min-height: 600px;
+}
+
+.contact img {
+    margin-left: 50px;
+    margin-right: 40px;
+    margin-top: 30px;
+}
+
+
+
+
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 100px;
+    background-color:black;
+    padding-top: 30px;
+    
+}
+
+footer p {
+    color: whitesmoke;
+    font-size: 1em;
+    margin-bottom: 0;
+}
